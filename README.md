@@ -4,17 +4,20 @@ Automated Precision Agriculture
 We have uploaded our DeepLearning code of Disease Detection from Leaves.
 Also IOT implementation(Arduino Code) has also been uploaded.
 
-INTRODUCTION
+**INTRODUCTION: 
+
 Agriculture plays a very big role in contribution towards the economic sector. Automation in this sector is the major concern between all the emerging topics across the world. It has resulted in boosting the per capita income of the rural community. Although great results have been achieved in the automation of agricultural processes, still we have far to go. Our Project aims to perform precision agriculture by using the data collected from sensors deployed in the soil. Basically we will be using both deep learning and machine learning for predicting the data. Machine learning(Random Forest) for Crop Yield Prediction, and we are using image processing with the help of CNN. Pest and plant disease detection is difficult and time-consuming if manually done but with the help of Image Processing it becomes easy and fast. The model which we aim to build will be able to distinguish 12 different type of plant diseases from healthy leaves. From the references that we have looked through, the DL algorithm will be able to detect it with an accuracy with around 94 percent. But we will be further looking to improve it by at least 1 percent by tuning it further with more iterations and also by applying new features. Although applying this technology will be a little expensive but the amount of impact it will have in the increase in yield will be almost 50 percent which is more than enough to compensate the money that will be required to apply automation. According to the statistical data available on the interned, around 23,000 metric tons of food
 is wasted due to the primitive methods used to do agriculture. By applying this technology a lot of increase in yield can be achieved further contributing to the betterment of environment. 
 
 
-PROBLEM STATEMENT
+**PROBLEM STATEMENT:  
+
 Clean freshwater is an essential ingredient for a healthy human life. A recent study found that, on average, 33 percent of the global population suffers from water scarcity in some form or the other. By 2025, two-thirds of the world’s population may be facing water shortages.
 Interestingly, approximately 70 percent of the total volume of water withdrawals in the world are used for irrigation, and that’s precisely where most of the water waste happens, either due to evapotranspiration, land run-off, or simply inefficient, primitive usage methods. Also, most of the time farmers or landowners do not have the information about their land’s soil quality and moisture content and as a result their crop yield is not satisfactory. Pests and Insects are also a big trouble for them, because when not detected, they can be harmful for crops or plants.
 
 
-INNOVATION:
+**INNOVATION: 
+
 Technological Innovation:
 For the Crop yield prediction decision tree algorithm is currently used as this algorithm prone to over fitting and also gives the more optimal solution but not the globally optimal one. To make more efficient one we used random forests algorithms for the same because this algorithms achieves very high accuracy level of prediction, efficient on large datasets for the prediction, ability to handle more input feature without need for the feature deletion and works well for the missing data and still give the better results. And for the massive crop prediction this algorithm is the best above all. And helps the farmers to make the right decision for the right crop.
 Process Innovation:
